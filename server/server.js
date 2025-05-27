@@ -26,7 +26,7 @@ const corsOptions = {
     'https://localhost:5173',
     'http://127.0.0.1:5173',
     'https://127.0.0.1:5173',
-    'https://quickcraft.onrender.com'
+    'https://quizcraft.onrender.com'
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization', 'User-Id'],
